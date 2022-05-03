@@ -41,11 +41,9 @@ namespace certamen1
                             if (b <= a)
                             {
                                 menor = b;
-                                mayor = a;
                             }
                             else
                             {
-                                menor = a;
                                 mayor = b;
                             }
                             con++;
@@ -59,13 +57,17 @@ namespace certamen1
                         c = int.Parse(Console.ReadLine());
                         if (c >= 1)
                         {
-                            if (c <= menor)
+                            if (c <= b && c <=a)
                             {
                                 menor = c;
                             }
                             else
                             {
-                                mayor = c;
+                                if (c>=b && c >=a)
+                                {
+                                    mayor = c;
+                                }
+                                
                             }
                             con++;
                         }

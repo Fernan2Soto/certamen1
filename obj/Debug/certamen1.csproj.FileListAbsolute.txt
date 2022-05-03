@@ -1,0 +1,8 @@
+C:\Users\FERNANDO\source\repos\certamen1\bin\Debug\certamen1.exe.config
+C:\Users\FERNANDO\source\repos\certamen1\bin\Debug\certamen1.exe
+C:\Users\FERNANDO\source\repos\certamen1\bin\Debug\certamen1.pdb
+C:\Users\FERNANDO\source\repos\certamen1\obj\Debug\certamen1.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\source\repos\certamen1\obj\Debug\certamen1.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERNANDO\source\repos\certamen1\obj\Debug\certamen1.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\source\repos\certamen1\obj\Debug\certamen1.exe
+C:\Users\FERNANDO\source\repos\certamen1\obj\Debug\certamen1.pdb
